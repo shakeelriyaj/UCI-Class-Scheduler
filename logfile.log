@@ -1,0 +1,16 @@
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/bin/sh: /Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: usr/bin/env: bad interpreter: No such file or directory
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 1: from: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 2: from: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 3: from: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 4: import: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 5: import: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 6: from: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 8: URL: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 9: department: command not found
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 11: syntax error near unexpected token `('
+/Users/imranriyaj/Desktop/UCI-Class-Scheduler/scraper.py: line 11: `driver = webdriver.Chrome()'
