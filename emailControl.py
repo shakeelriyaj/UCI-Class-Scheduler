@@ -8,7 +8,7 @@ def emailSender(message):
     to_mail = "imran.riyaj@gmail.com"
     password = "deqh tyjn tmhs jnuy"
     
-    msg = (f"Subject: Class or Lab OPEN: {message}\n")
+    msg = (f"Subject: {message}\n")
 
     smtp = smtplib.SMTP(host, port)
 
